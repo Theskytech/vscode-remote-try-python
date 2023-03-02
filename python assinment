@@ -1,0 +1,6 @@
+x = int(input("Enter a number: "))
+y= int (input("Enter second number "))
+if x>y:
+   print("{0} is greater ".format(y))
+else:
+   print("{0} is greater".format(y)
